@@ -1,2 +1,2 @@
-*.* linguist-language=C++
-*.* linguist-language=cocos2dx
+*.h linguist-language=cocos2dx
+*.m linguist-language=c++
